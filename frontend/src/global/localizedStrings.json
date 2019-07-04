@@ -1,0 +1,138 @@
+{
+    "fr": {
+        "login": {
+            "title": "Se connecter",
+            "description": "Pour vous connecter, merci d'utiliser...",
+            "field_participant": "Code de l'OFSP / participant",
+            "field_birthdate": "Date de naissance",
+            "login_button": "Se connecter",
+            "remember_checkbox": "Se souvenir de moi",
+            "errors_description": [
+                "e1",
+                "e2",
+                "e3",
+                "e4"
+            ]
+        },
+        "appbar": {
+            "title": "Tableau de bord de l'étude",
+            "logout": "Se déconnecter"
+        },
+        "helpmenu": {
+            "title": "Aide",
+            "studyInformation": "Informations sur l'étude",
+            "studyInformationLink": "link",
+            "faq": "FAQ",
+            "faqLink": "link",
+            "contactUs": "Nous contacter",
+            "contactEmailLink": "mailto:mail"
+        },
+        "appfooter": {
+            "homePageText": "Page d'accueil",
+            "homePageLink": "link",
+            "contactUs": "Nous contacter",
+            "contactEmailLink": "mailto:mail",
+            "copyrightText": "Swiss Health Study \u00A9 all rights reserved"
+        },
+        "congratulationsnackbar": {
+            "congrat1ElemStart": "Vous venez de terminer le questionnaire \"",
+            "congrat1ElemEnd": "\", merci !",
+            "congratMultElemStart": "Vous venez de terminer ",
+            "congratMultElemEnd": " questionnaires, merci !"
+        },
+        "dashboard": {
+            "infoBox": "Merci de votre participation! Vous trouvez sur ce tableau de bord les différents questionnaires qu'il vous reste à remplir, ainsi que ceux que vous avez déjà terminé.",
+            "title1": "Questionnaires à compléter",
+            "title2": "Questionnaires terminés",
+            "finished": "Terminé!",
+            "progression_indicator": "Rempli à",
+            "start_form_button": "Démarrer",
+            "continue_form_button": "Continuer",
+            "forms": [
+                {
+                    "title": "title1",
+                    "description": "description1",
+                    "rewardText": "reward1"
+                },
+                {
+                    "title": "title2",
+                    "description": "description2",
+                    "rewardText": "reward2"
+                },
+                {
+                    "title": "title3",
+                    "description": "description3",
+                    "rewardText": "reward3"
+                }
+            ]
+        }
+    },
+    "de": {
+        "login": {
+            "title": "Anmelden",
+            "description": "Please connect with...",
+            "field_participant": "Participant code",
+            "field_birthdate": "Gerburtsdatum",
+            "login_button": "Anmelden",
+            "remember_checkbox": "Remember me",
+            "errors_description": [
+                "e1",
+                "e2",
+                "e3",
+                "e4"
+            ]
+        },
+        "appbar": {
+            "title": "Instrumententafel (Gesundheitsstudie)",
+            "logout": "Sich abmelden"
+        },
+        "helpmenu": {
+            "title": "Hilfe",
+            "studyInformation": "Study information",
+            "studyInformationLink": "link",
+            "faq": "FAQ",
+            "faqLink": "link",
+            "contactUs": "Contact us",
+            "contactEmailLink": "mailto:mail"
+        },
+        "appfooter": {
+            "homePageText": "Homepage",
+            "homePageLink": "link",
+            "contactUs": "Contact us",
+            "contactEmailLink": "mailto:mail",
+            "copyrightText": "Swiss Health Study \u00A9 all rights reserved"
+        },
+        "congratulationsnackbar": {
+            "congrat1ElemStart": "You have just finished the form \"",
+            "congrat1ElemEnd": "\", thank you !",
+            "congratMultElemStart": " You have just finished ",
+            "congratMultElemEnd": " forms, thank you !"
+        },
+        "dashboard": {
+            "infoBox": "You can find here the various forms to complete.",
+            "finished": "Finished!",
+            "title1": "Forms to complete",
+            "title2": "Finished forms",
+            "progression_indicator": "Filled at",
+            "start_form_button": "Anfangen",
+            "continue_form_button": "Fortsetzen",
+            "forms": [
+                {
+                    "title": "title1",
+                    "description": "description1",
+                    "rewardText": "reward1"
+                },
+                {
+                    "title": "title2",
+                    "description": "description2",
+                    "rewardText": "reward2"
+                },
+                {
+                    "title": "title3",
+                    "description": "description3",
+                    "rewardText": "reward3"
+                }
+            ]
+        }
+    }
+}
