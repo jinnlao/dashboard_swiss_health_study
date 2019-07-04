@@ -11,21 +11,3 @@ The goal of this dashboard are the following:
 
 
 The front-end was developed in React, the back-end in PHP. The code can be found in both the `frontend` and `backend` folders.
-
-## Screenshots
-Here are some screenshots of the resulting dashboard.
-
-Login page, (with a custom login system):
-<p>
-  <img width="400" src="doc_images/login.jpg">
-</p>
-
-Main dashboard page:
-<p>
-  <img width="600" alt="dashboard page" src="doc_images/dashboard.jpg">
-</p>
-
-Finished forms:
-<p>
-  <img width="600" alt="dashboard page" src="doc_images/finished_forms.jpg">
-</p>
