@@ -1,7 +1,7 @@
 # Dashboard - Swiss Health Study
 
-The Swiss Health Study aims at understanding the health status of the Swiss population at a national scale (100K participants).<br />
-In January 2019, the pilot phase of the study started (https://www.etude-sur-la-sante.ch/)
+The Swiss Health Study aims at understanding the health status of the Swiss population at a national scale (100K participants).
+In January 2019, the pilot phase of the study started (https://www.etude-sur-la-sante.ch/).
 
 This project is a part of the IT infrastructure that was set up for the study. It consists of the main webpage (dashboard) on which all study participants land. On this page, a participant can see the remaining questionnaires that he needs to fill in, his current progression, and some "rewards" for all the forms that he has already completed.
 
